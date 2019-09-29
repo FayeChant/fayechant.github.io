@@ -14,3 +14,5 @@ A GUI is provided to run the model, and an animation is shown as the agents are 
 *Code*
 
 The source code for this module can be found [here](https://github.com/FayeChant/GEOG5991M_Assessment1)
+
+[Back to main page](https://fayechant.github.io/index.html)
