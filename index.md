@@ -13,3 +13,6 @@ She is also a mum to two boys, William, 3, and Sammy, 1.
 =========================
 
 [Assessment 1](https://fayechant.github.io/Assessment1.html)
+
+[Assessment 2](https://fayechant.github.io/Assessment2.html)
+
