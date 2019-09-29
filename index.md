@@ -16,3 +16,5 @@ She is also a mum to two boys, William, 3, and Sammy, 1.
 
 [Assessment 2](https://fayechant.github.io/Assessment2.html)
 
+
+This code was generated using a GitHub Template with a theme called "cayman".
