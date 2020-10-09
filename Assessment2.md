@@ -5,7 +5,7 @@
 Data preparation tool
 =====================
 
-Documentation for this tool can be found [here](https://github.com/FayeChant/GEOG5991M_Assessment2_)
+Documentation for this tool can be found [here](https://fayechant.github.io/GEOG5991M_Assessment2_)
 
 *Code*
 
