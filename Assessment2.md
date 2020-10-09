@@ -5,7 +5,7 @@
 Data preparation tool
 =====================
 
-Documentation for this tool can be found [here](https://github.com/FayeChant/fayechant.github.io/blob/master/Assessment2_.html)
+Documentation for this tool can be found [here](https://github.com/FayeChant/Assessment2_.html)
 
 *Code*
 
